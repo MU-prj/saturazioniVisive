@@ -1,0 +1,6 @@
+opencv-python
+pillow
+numpy
+matplotlib
+scipy  # Per KD-tree (ottimizzazione)
+jupyter  # Per notebook
